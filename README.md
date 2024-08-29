@@ -3,6 +3,8 @@
 ![Design preview for the Results summary component coding challenge](./assets/design/desktop-preview.jpg)
 ![Design preview for the Results summary component coding challenge](./assets/design/mobile-design.jpg)
 
+LInk: https://dsaw-2024-2.github.io/css-frameworks-tomasbagu05/
+
 Este proyecto consiste en resolver un reto de HTML y CSS dos veces, una utilizando el framework Bootstrap y otra utilizando TailwindCSS. El objetivo principal es crear dos versiones del mismo diseño, siendo lo más parecidas posible al diseño original.
 
 ## Contexto

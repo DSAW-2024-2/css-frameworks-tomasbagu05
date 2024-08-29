@@ -1,0 +1,61 @@
+body{
+    background-color: #f3eae3;
+}
+@media (max-width: 320px) {
+    .container{
+        width: 80%;
+    }
+    .card-title {
+        font-size: 0.825rem; 
+    }
+    .card-text {
+        font-size: 1.3rem;
+    }
+    .card-text-content{
+        font-size: 0.650rem;
+    }
+    h2 {
+        font-size: 1rem;
+    }
+    .fs-6 {
+        font-size: 0.75rem;
+    }
+    .button {
+        font-size: 0.725rem;
+    }
+}
+@font-face {
+    font-family: 'Caturrita Display';
+    src: url('/path-to-your-font/CaturritaDisplay-Bold.woff2') format('woff2'),
+         url('/path-to-your-font/CaturritaDisplay-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+@media (max-width: 320px) {
+    h5 {
+        font-size: 0.825rem;
+    }
+    h3 {
+        font-size: 1.3rem;
+    }
+    p {
+        font-size: 0.65rem;
+    }
+    h2 {
+        font-size: 1rem;
+    }
+    span {
+        font-size: 0.75rem;
+    }
+    button {
+        font-size: 0.725rem;
+    }
+}
+
+@font-face {
+    font-family: 'Caturrita Display';
+    src: url('/path-to-your-font/CaturritaDisplay-Bold.woff2') format('woff2'),
+         url('/path-to-your-font/CaturritaDisplay-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
